@@ -46,3 +46,5 @@ Dengan desain latar kayu dan elemen makanan di sekitar, halaman ini memberi kesa
 Penutup Cerita
 
 Castle Food bukan sekadar aplikasi pemesanan makanan, tapi pengalaman visual dan rasa. Dari awal Anda membuka aplikasi hingga melihat pesanan terakhir Anda, semuanya dirancang agar memesan makanan jadi mudah, cepat, dan menyenangkan.
+
+![image alt](https://github.com/rizkiandri/UTS-webdinamis/blob/497e823f6cea5cdf5cd40d46c793302d03d54629/WhatsApp%20Image%202025-05-19%20at%2015.19.11_0f19b93a.jpg)
